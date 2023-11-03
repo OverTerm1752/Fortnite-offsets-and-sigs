@@ -31,7 +31,7 @@ namespace OFFSETS
     uintptr_t IsDBNO = 0x872;
     uintptr_t LocalActorPos = 0x128;
     uintptr_t ComponetToWorld = 0x240;
-    uintptr_t BoneArray = 0x610;
+    uintptr_t BoneArray = 0x610; (0x620)
     uintptr_t Bonecache = 0x648;
     uintptr_t Velocity = 0xb8;
     uintptr_t Private = 0x308; //PawnPrivate
