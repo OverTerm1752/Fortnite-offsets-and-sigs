@@ -1,5 +1,8 @@
 
 
+teamid and bone array changed
+
+
 namespace OFFSETS
 {
     uintptr_t UWORLD = 0xF16DE38;
